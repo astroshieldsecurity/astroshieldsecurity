@@ -37,12 +37,12 @@ AstroShield is your guiding star in the universe of cybersecurity. As your virtu
 '''
 
 [[params.one.icon]]
-icon = "solid fa-shield"
+icon = "solid fa-shield-halved"
 style = "1"
 label = "Lorem"
 
 [[params.one.icon]]
-icon = "fa-heart"
+icon = "fa-square-check"
 style = "2"
 label = "Ipsum"
 
@@ -78,17 +78,17 @@ Our vCISO expertise isn't confined to just one area of cybersecurity. We bring s
 '''
 
 [[params.three.feature]]
-icon = "solid fa-shield"
+icon = "solid fa-cloud"
 title = "Cloud Security Mastery"
 body = "Our deep-rooted experience in cloud security spans multiple providers like AWS, Azure, and GCP. We guide you through the nebulous landscape of cloud vulnerabilities, ensuring your data and infrastructure remain invulnerable to breaches"
 
 [[params.three.feature]]
-icon = "solid fa-laptop"
+icon = "solid fa-timeline"
 title = "Software Pipeline Expertise"
 body = "Navigating the software development lifecycle is second nature to us. From integrating security into your DevOps pipeline to secure coding practices, we ensure that your software is built with robustness from the ground up."
 
 [[params.three.feature]]
-icon = "solid fa-code"
+icon = "solid fa-filter"
 title = "Data Loss Prevention Prowess"
 body = "Data is the lifeblood of any organization, and we excel in implementing data loss prevention strategies. Our tailored solutions protect your sensitive information from unauthorized access and accidental leaks, giving you peace of mind."
 
@@ -98,12 +98,12 @@ title = "Security Awareness Training"
 body = "An informed team is a secure team. Our security awareness programs aim to cultivate a culture of vigilance among your internal employees, ensuring that human error is minimized as a risk factor."
 
 [[params.three.feature]]
-icon = "fa-heart"
+icon = "fa-bell"
 title = "Incident Response Readiness"
 body = "When the unforeseen happens, you can count on us for rapid, effective incident response. Our expertise in crisis management allows us to identify, contain, and mitigate security incidents, minimizing damage and downtime."
 
 [[params.three.feature]]
-icon = "fa-flag"
+icon = "fa-square-check"
 title = "Compliance Command"
 body = "Navigating the labyrinth of industry regulations can be daunting. Our deep-rooted expertise in compliance, from GDPR to HIPAA, ensures that you're not just ticking boxes but building a sustainable, compliant security infrastructure. Trust us to keep you ahead of the regulatory curve."
 
