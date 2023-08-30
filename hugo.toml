@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://astroshieldsecurity.github.io/astroshieldsecurity/"
 title = "AstroShield"
 languageCode = "en-us"
 defaultContentLanguage = "en"
@@ -17,11 +17,11 @@ body_is_markdown = true
 #images = ["static/cat.jpg"]
 
 [[params.menu.main]]
-url = 'https://astroshieldsecurity.github.io/astroshieldsecurity/'
+url = '/'
 title = "Home"
 
 [[params.menu.main]]
-url = 'https://astroshieldsecurity.github.io/astroshieldsecurity/posts/'
+url = '/posts/'
 title = "Posts"
 
 [taxonomies]
