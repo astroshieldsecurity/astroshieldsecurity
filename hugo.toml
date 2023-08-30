@@ -9,7 +9,7 @@ logo = "static/cat.png"
 [params]
 fancyTitle = "AstroShield" # title for frontpage, may include image
 copyright = "Stargate Security LLC"
-description = 'Eclipsing Cyber Risks<br /> with Expert Virtual CISO Services'
+description = 'Eclipsing Cyber Risks <br /> with Expert Virtual CISO Services'
 startbuttonText = "Contact Us"
 startbuttonLink = "#contact"
 body_is_markdown = true
