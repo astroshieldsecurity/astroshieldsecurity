@@ -1,0 +1,156 @@
+baseURL = "/"
+title = "AstroShield"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+paginate = "7"
+theme = "spectral"
+logo = "static/cat.png"
+
+[params]
+fancyTitle = "AstroShield" # title for frontpage, may include image
+copyright = "Stargate Security LLC"
+description = 'Eclipsing Cyber Risks<br /> with Expert Virtual CISO Services'
+startbuttonText = "Contact Us"
+startbuttonLink = "#contact"
+body_is_markdown = true
+#custom_css = "foo.css"
+#images = ["static/cat.jpg"]
+
+[[params.menu.main]]
+url = '/'
+title = "Home"
+
+[[params.menu.main]]
+url = '/posts/'
+title = "Posts"
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+    series = "series"
+
+[params.one]
+enable = true
+title = 'Secure Your Business with an On-Demand CISO'
+body = '''
+AstroShield is your guiding star in the universe of cybersecurity. As your virtual CISO, we lead you through the maze of securing your applications and infrastructure with simple yet powerful strategies. We make compliance feel like smooth sailing, not a black hole of complexity. Trust AstroShield to pilot your security mission from start to finish, so you can focus on soaring to new heights.
+'''
+
+[[params.one.icon]]
+icon = "solid fa-shield"
+style = "1"
+label = "Lorem"
+
+[[params.one.icon]]
+icon = "fa-heart"
+style = "2"
+label = "Ipsum"
+
+[[params.one.icon]]
+icon = "solid fa-code"
+style = "3"
+label = "Dolor"
+
+[params.two]
+enable = true
+
+[[params.two.section]]
+img = "img/pic01.jpg"
+img_alt = "blurry background: white/grey"
+title = 'What is a Virutal CISO?'
+body = 'A virtual CISO is an outsourced security expert who provides strategic leadership in cybersecurity, cloud and application security, and ensures compliance with regulations. They offer the expertise of an in-house CISO without the commitment of a full-time executive position.'
+
+[[params.two.section]]
+img = "img/pic02.jpg"
+title = 'Who We Are'
+body = 'With over 20 years of dedicated security experience, we specialize in reducing risks to organizations across various sectors. Our seasoned team offers the kind of expertise and leadership that only decades in the field can provide, ensuring your security posture is as robust as it is dynamic. Trust us to be the guardians of your cybersecurity, so you can focus on what you do best.'
+
+[[params.two.section]]
+img = "img/pic03.jpg"
+title = 'Flexible Engagement, Affordable Expertise'
+body = 'Unlike a full-time security executive that comes with high costs and rigid schedules, we offer a range of time-flexible engagements to suit your specific needs. Our flexible scheduling means you get top-tier security leadership exactly when you need it—and without breaking the bank.'
+
+[params.three]
+enable = true
+title = 'Comprehensive Leadership in Cybersecurity Across All Frontiers'
+body = '''
+Our vCISO expertise isn't confined to just one area of cybersecurity. We bring seasoned leadership across various platforms—whether it's securing your cloud environments, fortifying on-premises infrastructure, safeguarding application ecosystems, or optimizing software development pipelines for security. We don't just stop there; our proficiency extends to ensuring compliance with industry regulations. Trust us to offer a holistic security strategy tailored to every facet of your organization.
+'''
+
+[[params.three.feature]]
+icon = "solid fa-shield"
+title = "Cloud Security Mastery"
+body = "Our deep-rooted experience in cloud security spans multiple providers like AWS, Azure, and GCP. We guide you through the nebulous landscape of cloud vulnerabilities, ensuring your data and infrastructure remain invulnerable to breaches"
+
+[[params.three.feature]]
+icon = "solid fa-laptop"
+title = "Software Pipeline Expertise"
+body = "Navigating the software development lifecycle is second nature to us. From integrating security into your DevOps pipeline to secure coding practices, we ensure that your software is built with robustness from the ground up."
+
+[[params.three.feature]]
+icon = "solid fa-code"
+title = "Data Loss Prevention Prowess"
+body = "Data is the lifeblood of any organization, and we excel in implementing data loss prevention strategies. Our tailored solutions protect your sensitive information from unauthorized access and accidental leaks, giving you peace of mind."
+
+[[params.three.feature]]
+icon = "solid fa-headphones-alt"
+title = "Security Awareness Training"
+body = "An informed team is a secure team. Our security awareness programs aim to cultivate a culture of vigilance among your internal employees, ensuring that human error is minimized as a risk factor."
+
+[[params.three.feature]]
+icon = "fa-heart"
+title = "Incident Response Readiness"
+body = "When the unforeseen happens, you can count on us for rapid, effective incident response. Our expertise in crisis management allows us to identify, contain, and mitigate security incidents, minimizing damage and downtime."
+
+[[params.three.feature]]
+icon = "fa-flag"
+title = "Compliance Command"
+body = "Navigating the labyrinth of industry regulations can be daunting. Our deep-rooted expertise in compliance, from GDPR to HIPAA, ensures that you're not just ticking boxes but building a sustainable, compliant security infrastructure. Trust us to keep you ahead of the regulatory curve."
+
+[params.cta]
+enable = true
+title = "Secure Your Digital Universe with AstroShield"
+body = "Choose AstroShield for experienced vCISO expertise that cover cloud, software, and compliance. Flexible, expert, and cost-effective—your safety net in the vast world of cybersecurity."
+
+[[params.cta.link]]
+href = "#contact"
+text = "Contact Us"
+special = true
+
+[[params.cta.link]]
+href = "#"
+text = "Learn More"
+special = false
+
+[params.contact]
+enable = true
+title = "Contact"
+body = "Get in touch."
+phone = "+1 (425) 446 1494"
+address = "1234 Somewhere Road<br />Some Place, Some State 0000<br />Some Country"
+email = "astroshield@gmail.com"
+subject = "New Submission!"
+formspree_form_id = "moqowqan"
+
+[params.social]
+twitter = ""
+mastodon = ""
+github = ""
+facebook = ""
+youtube = ""
+instagram = ""
+dribble = ""
+
+# language specific options
+
+[languages.en]
+weight = 0
+languageName = "English"
+
+[languages.de]
+weight = 10
+languageName = "Deutsch"
+
+[languages.es]
+weight = 10
+languageName = "Español"
