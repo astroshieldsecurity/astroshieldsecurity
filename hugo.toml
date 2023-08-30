@@ -1,4 +1,4 @@
-baseURL = "https://astroshieldsecurity.github.io/astroshieldsecurity/"
+baseURL = "/astroshieldsecurity/"
 title = "AstroShield"
 languageCode = "en-us"
 defaultContentLanguage = "en"
