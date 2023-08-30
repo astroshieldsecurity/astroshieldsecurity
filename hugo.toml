@@ -128,7 +128,7 @@ title = "Contact"
 body = "Get in touch."
 phone = "+1 (425) 446 1494"
 address = "1234 Somewhere Road<br />Some Place, Some State 0000<br />Some Country"
-email = "astroshield@gmail.com"
+email = "contact.astroshield@gmail.com"
 subject = "New Submission!"
 formspree_form_id = "moqowqan"
 
