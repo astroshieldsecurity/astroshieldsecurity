@@ -17,11 +17,11 @@ body_is_markdown = true
 #images = ["static/cat.jpg"]
 
 [[params.menu.main]]
-url = '/astroshieldsecurity'
+url = 'https://astroshieldsecurity.github.io/astroshieldsecurity/'
 title = "Home"
 
 [[params.menu.main]]
-url = 'astroshieldsecurity/posts/'
+url = 'https://astroshieldsecurity.github.io/astroshieldsecurity/posts/'
 title = "Posts"
 
 [taxonomies]
