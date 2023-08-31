@@ -110,7 +110,7 @@ body = "Navigating the complex maze of industry regulations and compliance frame
 [params.cta]
 enable = true
 title = "Secure Your Digital Universe with AstroShield"
-body = "Choose AstroShield for experienced vCISO expertise that cover cloud, software, and compliance. Flexible, expert, and cost-effective—your safety net in the vast world of cybersecurity."
+body = "We offer a flexible, expert, and cost-effective approach, serving as your reliable safety net in the complex landscape of cybersecurity."
 
 [[params.cta.link]]
 href = "#contact"
